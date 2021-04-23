@@ -17,7 +17,7 @@ const songs = [
     title: 'willow',
     artist: 'Taylor Swift',
     coverPath: '../../album-art/taylor-swift/evermore.png',
-    discPath: 'https://free-mp3-download.net/tmp/63dd0d2c1b218759f7a1c33d805cb572/Taylor%20Swift%20-%20the%201.flac',
+    discPath: '../../songs/taylorSwift-evermore/willow.mp3',
     duration: '3:34',
   },
   {
