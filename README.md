@@ -1,6 +1,6 @@
 # BeatsV3
 
-#### Find difference between V2 and V3, here:
+#### Find the difference between V2 and V3, here:
 https://1varunvc.github.io/BeatsV2/artists/taylorSwift/evermore.html
 
 (It uses spotify widget as the player.)
